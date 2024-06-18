@@ -1,4 +1,4 @@
-from src.pdmdemo.main import simplesum
+from pdmdemo.main import simplesum
 
 
 def test_simplesum():
