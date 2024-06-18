@@ -22,4 +22,4 @@ jobs:
       - name: Install dependencies
         run: pdm install -d
       - name: Test
-        run: pytest tests/
+        run: pdm run pytest tests/
