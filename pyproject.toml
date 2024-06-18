@@ -24,3 +24,6 @@ distribution = true
 test = [
     "pytest>=8.2.2",
 ]
+dev = [
+    "tox-pdm>=0.7.2",
+]
